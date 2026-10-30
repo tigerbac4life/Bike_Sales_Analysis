@@ -49,6 +49,9 @@ The Power BI dashboard includes:
 - **Revenue by Season:** Comparison of revenue across four seasons.
 - **Rider Demographics:** Distribution of registered and casual riders.
 - **Hourly Sales Analysis:** Revenue breakdown by hour to identify peak business periods.
+## Dashboard Preview
+
+![Toman Bike Share Dashboard](PowerBI_Dashboards/Final Report.jpg)
 
 ## Project Files
 
