@@ -51,7 +51,7 @@ The Power BI dashboard includes:
 - **Hourly Sales Analysis:** Revenue breakdown by hour to identify peak business periods.
 ## Dashboard Preview
 
-![Toman Bike Share Dashboard](PowerBI_Dashboards/Final Report.jpg)
+![Toman Bike Share Dashboard](PowerBI_Dashboards/Final%20Report.jpg)
 
 ## Project Files
 
